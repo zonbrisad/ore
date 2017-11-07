@@ -10,7 +10,7 @@
 #include <QtCore/QList>
 #include <QtCore/QDebug>
 #include <QtCore/QDir>
-#include <argtable2.h>
+#include <argtable3.h>
 #include <ncurses.h>
 #include "OEditor.h"
 #include "libtermkey-0.15b/termkey.h"
