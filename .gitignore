@@ -72,3 +72,5 @@ output
 personal.mk
 *.d
 *.old
+/dist/
+/build/

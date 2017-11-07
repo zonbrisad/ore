@@ -6,7 +6,7 @@
  */
 
 #include <QtCore/QCoreApplication>
-#include "qextserialenumerator.h"
+//#include "qextserialenumerator.h"
 #include <QtCore/QList>
 #include <QtCore/QDebug>
 #include <QtCore/QDir>
